@@ -1,5 +1,5 @@
 # rainbow_donut
-my first repository 
+## my first repository 
 
 install python version: 3.11.0
 
